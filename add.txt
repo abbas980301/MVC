@@ -1,0 +1,6 @@
+﻿افزودن 
+namespace 
+به روتر 
+MVC
+در واقع مسیر لود شدن فایل رو دخیره می کنه
+nameSpace => path/to/file/Controller
